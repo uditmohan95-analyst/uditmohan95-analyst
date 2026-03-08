@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Udit Mohan
 
-📊 **Data Analytics | Customer Insights | Trading Strategy Development**
+📊 **Data Analyst | SQL • Python • Power BI | NPS & Voice of Customer Expert | Turning Data into Business Decisions**
 
 I am a **Customer Experience and Data Analytics professional with 8+ years of experience** specializing in **customer insights, performance analytics, and data-driven decision making**.
 
