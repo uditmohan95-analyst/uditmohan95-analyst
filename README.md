@@ -2,7 +2,7 @@
 
 📊 **Data Analytics | Customer Insights | Trading Strategy Development**
 
-I am a **Customer Experience and Data Analytics professional with 7+ years of experience** specializing in **customer insights, performance analytics, and data-driven decision making**.
+I am a **Customer Experience and Data Analytics professional with 8+ years of experience** specializing in **customer insights, performance analytics, and data-driven decision making**.
 
 I enjoy transforming complex datasets into **actionable insights, dashboards, and analytical frameworks** that improve customer experience and business performance.
 
